@@ -34,6 +34,7 @@ public class MainActivity extends AppCompatActivity {
         TextView textView = (TextView)findViewById(R.id.text);
         textView.setText("hix123");
         textView.setText("hix1234");
+        textView.setText("hix1234");
     }
 
     @Override
