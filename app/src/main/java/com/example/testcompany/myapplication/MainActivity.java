@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         //double u = subtraction.op(6,4);
         TextView textView = (TextView)findViewById(R.id.text);
-        textView.setText("hix");
+        textView.setText("hix12");
     }
 
     @Override
